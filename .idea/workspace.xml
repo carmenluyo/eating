@@ -13,7 +13,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
+            <state relative-caret-position="66283">
               <caret line="3899" column="18" selection-start-line="3899" selection-start-column="18" selection-end-line="3899" selection-end-column="18" />
             </state>
           </provider>
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="493">
@@ -47,8 +47,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
+            <state relative-caret-position="1615">
+              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -56,24 +56,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="776">
+            <state relative-caret-position="3995">
               <caret line="235" column="8" selection-start-line="197" selection-end-line="235" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-              <folding>
-                <element signature="e#2454#2721#0" />
-              </folding>
+            <state relative-caret-position="272">
+              <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -81,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="810">
+            <state relative-caret-position="7497">
               <caret line="499" selection-start-line="499" selection-end-line="499" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -120,16 +116,19 @@
       <dir>C:\dgt\EATIN\alternativasweb.tk\clientes\eatin</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.sass" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html" />
-        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html" />
+        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss" />
       </list>
     </option>
   </component>
@@ -148,64 +147,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
-              <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
-              <item name="clientes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
-              <item name="eatin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
-              <item name="tours" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
-              <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
-              <item name="clientes" type="462c0819:PsiDirectoryNode" />
-              <item name="eatin" type="462c0819:PsiDirectoryNode" />
-              <item name="tours" type="462c0819:PsiDirectoryNode" />
-              <item name="about-us" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
-              <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
-              <item name="clientes" type="462c0819:PsiDirectoryNode" />
-              <item name="eatin" type="462c0819:PsiDirectoryNode" />
-              <item name="tours" type="462c0819:PsiDirectoryNode" />
-              <item name="eat-like-a-peruvian" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
@@ -213,8 +186,8 @@
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
@@ -223,8 +196,8 @@
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
@@ -234,8 +207,8 @@
               <item name="theme" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
@@ -246,8 +219,8 @@
               <item name="dist" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="EATIN" type="b2602c69:ProjectViewProjectNode" />
-              <item name="EATIN" type="462c0819:PsiDirectoryNode" />
+              <item name="eating" type="b2602c69:ProjectViewProjectNode" />
+              <item name="eating" type="462c0819:PsiDirectoryNode" />
               <item name="alternativasweb.tk" type="462c0819:PsiDirectoryNode" />
               <item name="clientes" type="462c0819:PsiDirectoryNode" />
               <item name="eatin" type="462c0819:PsiDirectoryNode" />
@@ -266,6 +239,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Sass" />
@@ -296,17 +270,18 @@
       <updated>1569462912368</updated>
       <workItem from="1569462913687" duration="9965000" />
       <workItem from="1569478966014" duration="18512000" />
+      <workItem from="1569554957104" duration="1564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28477000" />
+    <option name="totallyTimeSpent" value="30041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19616205" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,7 +293,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -334,6 +309,13 @@
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66283">
+          <caret line="3899" column="18" selection-start-line="3899" selection-start-column="18" selection-end-line="3899" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/blocks.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -343,42 +325,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="95" column="34" lean-forward="true" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-          <folding>
-            <element signature="e#2454#2721#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="3899" column="18" selection-start-line="3899" selection-start-column="18" selection-end-line="3899" selection-end-column="18" />
+        <state relative-caret-position="1615">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="776">
+        <state relative-caret-position="3995">
           <caret line="235" column="8" selection-start-line="197" selection-end-line="235" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
+        <state relative-caret-position="7497">
           <caret line="499" selection-start-line="499" selection-end-line="499" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -398,6 +362,13 @@
             <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="68" column="44" selection-start-line="68" selection-start-column="44" selection-end-line="68" selection-end-column="44" />
         </state>
       </provider>
     </entry>
