@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="263" column="125" lean-forward="true" selection-start-line="263" selection-start-column="125" selection-end-line="263" selection-end-column="125" />
+            <state relative-caret-position="715">
+              <caret line="289" column="32" selection-start-line="289" selection-start-column="32" selection-end-line="289" selection-end-column="32" />
               <folding>
                 <element signature="n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -45,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1615">
+            <state relative-caret-position="231">
               <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
             </state>
           </provider>
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="195" column="11" selection-start-line="195" selection-start-column="11" selection-end-line="195" selection-end-column="11" />
+              <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -108,6 +108,7 @@
       <find>testim</find>
       <find>box-</find>
       <find>que</find>
+      <find>200</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -127,8 +128,8 @@
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html" />
-        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss" />
+        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html" />
       </list>
     </option>
   </component>
@@ -270,12 +271,12 @@
       <updated>1569462912368</updated>
       <workItem from="1569462913687" duration="9965000" />
       <workItem from="1569478966014" duration="18512000" />
-      <workItem from="1569554957104" duration="2417000" />
+      <workItem from="1569554957104" duration="3171000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30894000" />
+    <option name="totallyTimeSpent" value="31648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -323,13 +324,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1615">
-          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3995">
@@ -351,22 +345,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="263" column="125" lean-forward="true" selection-start-line="263" selection-start-column="125" selection-end-line="263" selection-end-column="125" />
+        <state relative-caret-position="715">
+          <caret line="289" column="32" selection-start-line="289" selection-start-column="32" selection-end-line="289" selection-end-column="32" />
           <folding>
             <element signature="n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="195" column="11" selection-start-line="195" selection-start-column="11" selection-end-line="195" selection-end-column="11" />
         </state>
       </provider>
     </entry>
