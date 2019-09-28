@@ -301,6 +301,7 @@
     .credit-card{
       float: left;
       display: inline-block;
+      margin-top: -15px;
       ul{
         list-style: none;
         padding: 0;
@@ -317,9 +318,25 @@
         margin-left: 15px;
       }
     }
-    .redes-sociales{
+    .redes-sociales.w-25{
+      position: relative;
+      display: inline-flex;
+      &:before{
+        content: "Síguenos:";
+        display: block;
+        position: relative;
+        left: 0;
+        top: 7px;
+        margin-right: 20px;
+        font-size: 17px;
+      }
       float: right;
 
+    }
+    .font-17{
+      font-size: 17px;
+      font-weight: 400;
+      font-family: BrandonGrotesque-Regular,sans-serif;
     }
   }
 }

@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="715">
-              <caret line="289" column="32" selection-start-line="289" selection-start-column="32" selection-end-line="289" selection-end-column="32" />
+            <state relative-caret-position="596">
+              <caret line="368" column="72" selection-start-line="368" selection-start-column="72" selection-end-line="368" selection-end-column="72" />
               <folding>
                 <element signature="n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -45,8 +45,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
+            <state relative-caret-position="419">
+              <caret line="167" column="72" selection-start-line="167" selection-start-column="72" selection-end-line="167" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -54,8 +54,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3995">
-              <caret line="235" column="8" selection-start-line="197" selection-end-line="235" selection-end-column="8" />
+            <state relative-caret-position="538">
+              <caret line="230" column="65" selection-start-line="230" selection-start-column="65" selection-end-line="230" selection-end-column="72" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -63,11 +63,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+            <state relative-caret-position="714">
+              <caret line="338" column="54" selection-start-line="338" selection-start-column="54" selection-end-line="338" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -75,8 +75,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7497">
-              <caret line="499" selection-start-line="499" selection-end-line="499" />
+            <state relative-caret-position="147">
+              <caret line="493" column="63" selection-start-line="493" selection-start-column="63" selection-end-line="493" selection-end-column="63" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -107,8 +107,10 @@
       <find>about</find>
       <find>testim</find>
       <find>box-</find>
-      <find>que</find>
       <find>200</find>
+      <find>redes-sociales</find>
+      <find>credit-card</find>
+      <find>que</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -124,12 +126,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.sass" />
+        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html" />
-        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/styles.min.css" />
+        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html" />
         <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss" />
-        <option value="$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html" />
       </list>
     </option>
   </component>
@@ -271,12 +273,12 @@
       <updated>1569462912368</updated>
       <workItem from="1569462913687" duration="9965000" />
       <workItem from="1569478966014" duration="18512000" />
-      <workItem from="1569554957104" duration="3171000" />
+      <workItem from="1569554957104" duration="4445000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31648000" />
+    <option name="totallyTimeSpent" value="32922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -324,20 +326,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html">
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3995">
-          <caret line="235" column="8" selection-start-line="197" selection-end-line="235" selection-end-column="8" />
+        <state relative-caret-position="419">
+          <caret line="167" column="72" selection-start-line="167" selection-start-column="72" selection-end-line="167" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="596">
+          <caret line="368" column="72" selection-start-line="368" selection-start-column="72" selection-end-line="368" selection-end-column="72" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/eat-like-a-peruvian/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7497">
-          <caret line="499" selection-start-line="499" selection-end-line="499" />
+        <state relative-caret-position="147">
+          <caret line="493" column="63" selection-start-line="493" selection-start-column="63" selection-end-line="493" selection-end-column="63" />
           <folding>
             <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#section#7;n#main#0;n#body#0;n#html#0;n#!!top" />
@@ -345,29 +356,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/about-us/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="230" column="65" selection-start-line="230" selection-start-column="65" selection-end-line="230" selection-end-column="72" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/wp-content/themes/eatin/theme/dist/css/new-style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="195" column="10" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/tours/contact-us/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="95" column="34" selection-start-line="95" selection-start-column="34" selection-end-line="95" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alternativasweb.tk/clientes/eatin/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="715">
-          <caret line="289" column="32" selection-start-line="289" selection-start-column="32" selection-end-line="289" selection-end-column="32" />
-          <folding>
-            <element signature="n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#1;n#div#1;n#div#0;n#section#1;n#main#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="714">
+          <caret line="338" column="54" selection-start-line="338" selection-start-column="54" selection-end-line="338" selection-end-column="54" />
         </state>
       </provider>
     </entry>

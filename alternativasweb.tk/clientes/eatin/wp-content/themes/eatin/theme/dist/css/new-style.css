@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .breds { z-index: 3; position: absolute; display: -webkit-box; display: -ms-flexbox; display: flex; top: 90px; }
 
 .breds ul { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; list-style: none; }
@@ -116,7 +117,7 @@
 
 .footer-info .col-sm { display: inline-block !important; }
 
-.footer-info .col-sm .credit-card { float: left; display: inline-block; }
+.footer-info .col-sm .credit-card { float: left; display: inline-block; margin-top: -15px; }
 
 .footer-info .col-sm .credit-card ul { list-style: none; padding: 0; float: left; display: block; }
 
@@ -126,7 +127,11 @@
 
 .footer-info .col-sm .credit-card .img_creditcard { margin-left: 15px; }
 
-.footer-info .col-sm .redes-sociales { float: right; }
+.footer-info .col-sm .redes-sociales.w-25 { position: relative; display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; float: right; }
+
+.footer-info .col-sm .redes-sociales.w-25:before { content: "Síguenos:"; display: block; position: relative; left: 0; top: 7px; margin-right: 20px; font-size: 17px; }
+
+.footer-info .col-sm .font-17 { font-size: 17px; font-weight: 400; font-family: BrandonGrotesque-Regular,sans-serif; }
 
 .contact-page .breds ul li { color: #303030; }
 
