@@ -222,6 +222,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
+      position: relative;
       blockquote{
         font-size: 26px;
         span{
@@ -240,6 +241,12 @@
             bottom: -5px;
             background-color: #303030;
           }
+        }
+      }
+      .carousel-indicators{
+        bottom: 40px;
+        li{
+          border: transparent!important;
         }
       }
       img{
