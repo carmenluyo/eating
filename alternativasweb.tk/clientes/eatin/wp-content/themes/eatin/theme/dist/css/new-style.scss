@@ -1,4 +1,6 @@
 
+
+
 .breds{
   z-index: 3;
   position: absolute;
@@ -384,5 +386,70 @@
         }
       }
     }
+  }
+}
+
+@media screen and (max-width: 768px){
+  .navbar-brand{
+    width: 155px;
+  }
+  .breds{
+    top: 115px;
+    ul{
+      padding-left: 30px;
+    }
+  }
+
+  .testimonials{
+    #carousel-example-generic{
+      .carousel-inner{
+        .d-flex{
+          display: flex!important;
+          flex-direction: column!important;
+          height: auto;
+          .img-testimonial{
+            text-align: center;
+            margin-bottom: 10px;
+          }
+        }
+      }
+
+    }
+  }
+  .chef-testimonials{
+    .row{
+      .w-50{
+        width: 100%!important;
+        &.chef-text{
+          padding: 30px 0 50px;
+          blockquote{
+            font-size: 22px;
+            text-align: center;
+            span{
+              margin-top: 15px;
+              text-align: left;
+              font-size: 18px;
+            }
+          }
+          .carousel-indicators{
+            bottom: 25px;
+          }
+        }
+      }
+    }
+  }
+  .footer-info{
+    .col-sm.py-2.d-flex.flex-column{
+      display: flex!important;
+      text-align: center;
+      .credit-card, .redes-sociales{
+        width: 100% !important;
+        ul{
+          float: none;
+        }
+      }
+    }
+
+
   }
 }

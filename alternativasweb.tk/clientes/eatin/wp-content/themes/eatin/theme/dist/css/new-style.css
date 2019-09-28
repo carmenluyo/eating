@@ -151,4 +151,18 @@
 
 .contact-page .contact_us .w-90 .container .w-60 .phone-contact a { color: #d05353; margin-top: 5px; display: block; }
 
+@media screen and (max-width: 768px) { .navbar-brand { width: 155px; }
+  .breds { top: 115px; }
+  .breds ul { padding-left: 30px; }
+  .testimonials #carousel-example-generic .carousel-inner .d-flex { display: -webkit-box !important; display: -ms-flexbox !important; display: flex !important; -webkit-box-orient: vertical !important; -webkit-box-direction: normal !important; -ms-flex-direction: column !important; flex-direction: column !important; height: auto; }
+  .testimonials #carousel-example-generic .carousel-inner .d-flex .img-testimonial { text-align: center; margin-bottom: 10px; }
+  .chef-testimonials .row .w-50 { width: 100% !important; }
+  .chef-testimonials .row .w-50.chef-text { padding: 30px 0 50px; }
+  .chef-testimonials .row .w-50.chef-text blockquote { font-size: 22px; text-align: center; }
+  .chef-testimonials .row .w-50.chef-text blockquote span { margin-top: 15px; text-align: left; font-size: 18px; }
+  .chef-testimonials .row .w-50.chef-text .carousel-indicators { bottom: 25px; }
+  .footer-info .col-sm.py-2.d-flex.flex-column { display: -webkit-box !important; display: -ms-flexbox !important; display: flex !important; text-align: center; }
+  .footer-info .col-sm.py-2.d-flex.flex-column .credit-card, .footer-info .col-sm.py-2.d-flex.flex-column .redes-sociales { width: 100% !important; }
+  .footer-info .col-sm.py-2.d-flex.flex-column .credit-card ul, .footer-info .col-sm.py-2.d-flex.flex-column .redes-sociales ul { float: none; } }
+
 /*# sourceMappingURL=new-style.css.map */
