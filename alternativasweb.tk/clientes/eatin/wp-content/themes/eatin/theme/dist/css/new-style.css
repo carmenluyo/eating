@@ -24,7 +24,7 @@
 
 .home .exp_cul p { color: #303030; }
 
-.home .exp_cul .col-sm-4 .exp_l { padding: 35px; background-color: #fff; -webkit-box-shadow: 0px 0px 10px 4px #bdb3b3; box-shadow: 0px 0px 10px 4px #bdb3b3; }
+.home .exp_cul .col-sm-4 .exp_l { padding: 35px; background-color: #fff; -webkit-box-shadow: 0px 0px 10px 4px #bbb6b6; box-shadow: 0px 0px 10px 4px #bbb6b6; }
 
 .home .exp_cul .col-sm-4 .exp_l img { max-width: 100%; }
 
@@ -78,7 +78,7 @@
 
 .testimonials .testimonios .carousel .cnt-blockquote { display: -webkit-inline-box !important; display: -ms-inline-flexbox !important; display: inline-flex !important; -webkit-box-orient: horizontal !important; -webkit-box-direction: normal !important; -ms-flex-direction: row !important; flex-direction: row !important; height: 230px; }
 
-.testimonials .testimonios .carousel .carousel-item .img-testimonial img { border: 2px solid #d05353; border-radius: 50%; vertical-align: middle; height: 200px; }
+.testimonials .testimonios .carousel .carousel-item .img-testimonial img { border: 2px solid #d05353; border-radius: 50%; vertical-align: middle; height: 180px; }
 
 .testimonials .testimonios .carousel .carousel-item blockquote { color: #303030; font-size: 22px !important; text-align: left !important; }
 
